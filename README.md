@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 김범석 (Beok-Seok Kim)
 
-**Node.js Junior Developer** | 📧 *bunsuk1637@gmail.com* | 🔗[***Portfolio***]([https://drive.google.com/file/d/1SL2u65mWEyUsII0RU-2XiaYQUp-xC95O/view?usp=share_link/](https://thrilling-repair-f14.notion.site/f81c0e70098a4f03882ce17e959e7cd6))
+**Node.js Junior Developer** | 📧 *bunsuk1637@gmail.com* | 🔗[***Portfolio***]([https://thrilling-repair-f14.notion.site/f81c0e70098a4f03882ce17e959e7cd6])
 
 <br>
 
