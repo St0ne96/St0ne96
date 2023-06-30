@@ -38,3 +38,8 @@
 - GitHub Actions - **자동 배포 환경** 구축
 - 팀 협업 서비스 제작 프로젝트 경험
 
+<div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=St0ne96&show_icons=true&theme=aura)
+  
+ </div>
